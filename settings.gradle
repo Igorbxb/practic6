@@ -1,5 +1,0 @@
-include ':Layout Type_3'
-include ':Layout Type_2'
-include ':Layout Type'
-include ':app'
-rootProject.name = "practice1"
